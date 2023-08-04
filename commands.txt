@@ -7,3 +7,4 @@ git log
 git status
 git remote -v
 git remote add origin <url>
+git pull origin master
