@@ -1,1 +1,9 @@
 GIT Commands
+
+git init
+git add <file name>
+git push origin master
+git log
+git status
+git remote -v
+git remote add origin <url>
